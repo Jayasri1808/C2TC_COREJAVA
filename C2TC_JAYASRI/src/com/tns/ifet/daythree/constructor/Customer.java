@@ -9,7 +9,7 @@ public class Customer {
 		System.out.println("Default Constructor");
 	}
 	public Customer(String customerName, int customerId, String customerCity) {
-		this();
+//		this();
 		System.out.println("Parameterized Constructor");
 		this.customerName= customerName;
 		this.customerId=customerId;
