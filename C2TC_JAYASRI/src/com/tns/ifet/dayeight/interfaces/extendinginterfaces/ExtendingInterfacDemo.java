@@ -10,4 +10,9 @@ public class ExtendingInterfacDemo implements ChildInterface {
 	public void show() {
 		System.out.println("show Method");
 	}
+	public static void main(String arg[]) {
+		ExtendingInterfacDemo eid = new ExtendingInterfacDemo();
+		eid.print();
+		eid.show();
+	}
 }
