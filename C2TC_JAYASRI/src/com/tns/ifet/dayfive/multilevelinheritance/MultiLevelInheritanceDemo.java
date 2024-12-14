@@ -1,6 +1,5 @@
 package com.tns.ifet.dayfive.multilevelinheritance;
 
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class MultiLevelInheritanceDemo {
